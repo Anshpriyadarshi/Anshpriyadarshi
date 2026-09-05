@@ -13,8 +13,6 @@
 ---
 
 <div align="center">
-
-
 ╔══════════════════════════════════════════════════════════╗
 ║                 ███ CYBER TERMINAL ███                  ║
 ╠══════════════════════════════════════════════════════════╣
@@ -139,7 +137,7 @@ SYSTEM TRACKING...
 
 ████████████████████████████████████████████████
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:111111,100:050505&height=120&section=footer"/> </div> ```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:111111,100:050505&height=120&section=footer"/> </div> 
 .github/workflows/snake.yml
 name: Generate Contribution Snake
 
