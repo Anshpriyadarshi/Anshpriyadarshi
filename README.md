@@ -14,7 +14,7 @@
 
 <div align="center">
 
-```text
+
 ╔══════════════════════════════════════════════════════════╗
 ║                 ███ CYBER TERMINAL ███                  ║
 ╠══════════════════════════════════════════════════════════╣
@@ -25,7 +25,7 @@
 ║  SYSTEM     : ANSH_OS                                   ║
 ║  MODE       : LEARN → BUILD → IMPROVE                   ║
 ╚══════════════════════════════════════════════════════════╝
-
+</div>
 class Ansh:
 
     name = "Ansh Priyadarshi"
@@ -64,6 +64,7 @@ class Ansh:
 | 🐙 GitHub        | `ONLINE` |
 | 🧠 Learning Mode | `ACTIVE` |
 | 💻 Building Mode | `ACTIVE` |
+</div>
 
 🛠️ TECH STACK
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,figma&theme=dark"/> </div>
