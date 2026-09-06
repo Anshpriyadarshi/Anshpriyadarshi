@@ -374,7 +374,7 @@ The foundation comes first.
 </a>
 
 
-<a href="www.linkedin.com/in/ansh-priyadarshi-868b43427">
+<a href="https://www.linkedin.com/in/Ansh priyadarshi/">
 <img src="https://img.shields.io/badge/LinkedIn-54217a?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
