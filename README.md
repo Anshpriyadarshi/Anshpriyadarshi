@@ -373,9 +373,8 @@ The foundation comes first.
 <img src="https://img.shields.io/badge/GitHub-17121f?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<!-- Replace YOUR-LINKEDIN-USERNAME with your actual LinkedIn username -->
 
-<a href="https://www.linkedin.com/in/Ansh Priyadarshi/">
+<a href="www.linkedin.com/in/ansh-priyadarshi-868b43427">
 <img src="https://img.shields.io/badge/LinkedIn-54217a?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
