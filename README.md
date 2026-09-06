@@ -364,37 +364,6 @@ The foundation comes first.
 > **Build small. Understand deeply. Move forward.**
 
 
-
-## `11 / LET'S CONNECT`
-
-<div align="center">
-
-<a href="https://github.com/Anshpriyadarshi">
-<img src="https://img.shields.io/badge/GitHub-17121f?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-
-<a href="https://www.linkedin.com/in/ansh-priyadarshi-868b43427/">
-<img src="https://img.shields.io/badge/LinkedIn-54217a?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:101820,45:54217a,75:2b1647,100:17121f&animation=fadeIn" width="100%"/>
-
-### `THE CODE ISN'T FINISHED — I'M STILL WRITING IT.`
-
-<br>
-
-<sub>Learning today. Building tomorrow. Improving continuously.</sub>
-
-</div>
-
-
 <div align="center">
 
 
@@ -484,6 +453,37 @@ Replace your current ending message with this:
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=700&color=8DE4C3&center=true&vCenter=true&width=650&lines=%3E+System+status%3A+still+evolving...;%3E+Next+level%3A+under+construction;%3E+Keep+learning.+Keep+building.;%3E+Session+never+ends." />
+
+</div>
+
+
+
+## `11 / LET'S CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/Anshpriyadarshi">
+<img src="https://img.shields.io/badge/GitHub-17121f?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+
+<a href="https://www.linkedin.com/in/ansh-priyadarshi-868b43427/">
+<img src="https://img.shields.io/badge/LinkedIn-54217a?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:101820,45:54217a,75:2b1647,100:17121f&animation=fadeIn" width="100%"/>
+
+### `THE CODE ISN'T FINISHED — I'M STILL WRITING IT.`
+
+<br>
+
+<sub>Learning today. Building tomorrow. Improving continuously.</sub>
 
 </div>
 
