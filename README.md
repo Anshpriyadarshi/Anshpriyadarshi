@@ -394,3 +394,98 @@ The foundation comes first.
 
 </div>
 
+
+<div align="center">
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  ░▒▓ SYSTEM ONLINE ▓▒░                                      ║
+║                                                              ║
+║  USER        :: ANSH_PRIYADARSHI                             ║
+║  ACCESS      :: DEVELOPER_MODE                               ║
+║  STATUS      :: LEARNING                                     ║
+║  CORE        :: PYTHON / WEB / DESIGN                        ║
+║  NETWORK     :: GITHUB                                       ║
+║  OBJECTIVE   :: BUILD → LEARN → EVOLVE                       ║
+║                                                              ║
+║  [■■■■■■■■■■■■■■■■■■■■]  ONLINE                             ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+</div>
+
+
+This gives the README an immediate **terminal / cyberpunk interface** feel.
+
+
+ “Mission Console”
+
+Put this after your **learning philosophy** section:
+
+
+<div align="center">
+
+## `// MISSION CONTROL`
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-17121f?style=for-the-badge&logo=matrix&logoColor=8DE4C3&labelColor=54217a"/>
+<img src="https://img.shields.io/badge/MODE-BUILDING-17121f?style=for-the-badge&logo=github&logoColor=B68CFF&labelColor=2b1647"/>
+<img src="https://img.shields.io/badge/LEVEL-FOUNDATION-17121f?style=for-the-badge&logo=codeforces&logoColor=8DE4C3&labelColor=54217a"/>
+
+<br><br>
+
+
+╭────────────────────────────────────────────────────────╮
+│                                                        │
+│   [01] LEARN                                           │
+│        ↓                                               │
+│   [02] EXPERIMENT                                      │
+│        ↓                                               │
+│   [03] BUILD                                           │
+│        ↓                                               │
+│   [04] DEBUG                                           │
+│        ↓                                               │
+│   [05] UNDERSTAND                                      │
+│        ↓                                               │
+│   [06] LEVEL UP                                        │
+│                                                        │
+╰────────────────────────────────────────────────────────╯
+
+
+`SYSTEM MESSAGE ::` **No shortcuts. Just progress.**
+
+</div>
+
+
+
+
+###  terminal 
+
+Replace your current ending message with this:
+
+
+<div align="center">
+
+
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  ansh@github:~$ ./build_future.sh                          │
+│                                                            │
+│  > initializing curiosity...                 [OK]          │
+│  > loading knowledge...                      [OK]          │
+│  > compiling experience...                   [OK]          │
+│  > fixing bugs...                            [RUNNING]     │
+│  > becoming better...                        [RUNNING]     │
+│                                                            │
+│  ansh@github:~$ █                                          │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=700&color=8DE4C3&center=true&vCenter=true&width=650&lines=%3E+System+status%3A+still+evolving...;%3E+Next+level%3A+under+construction;%3E+Keep+learning.+Keep+building.;%3E+Session+never+ends." />
+
+</div>
+
+
+
