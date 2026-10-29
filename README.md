@@ -1,33 +1,35 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Ansh priyadarshi</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30" width="30" alt="Developer"> I'm Ansh Priyadarshi</h1>
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+<p align="center">
+  <em>Building ideas into code, one commit at a time.</em>
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Ansh's banner" width="100%" />
+</p>
 
 ## 📌 About Me
-- 💡 <em>✏️ I’m Ansh Priyadarshi, a student and aspiring developer learning Python and web development while building projects and turning ideas into code.</em>
+- 💡 I’m Ansh Priyadarshi, a student and aspiring developer learning Python and web development while building projects and turning ideas into code.
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=Anshpriyadarshi&theme=studio&style=aura" alt="Ansh Priyadarshi's GitHub Stats" width="100%" />
+  <img src="https://www.gitskins.com/api/section/stats?username=Anshpriyadarshi&amp;theme=dracula&amp;style=aura" alt="Ansh Priyadarshi's GitHub Stats" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Anshpriyadarshi&theme=nightowl&hide_border=true" alt="Ansh Priyadarshi's GitHub Streak" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=Anshpriyadarshi&amp;background=0B1B2A&amp;ring=BD93F9&amp;fire=FF79C6&amp;currStreakLabel=BD93F9&amp;sideLabels=C4B5FD&amp;currStreakNum=F3E8FF&amp;sideNums=F3E8FF&amp;dates=C4B5FD&amp;hide_border=true" alt="Ansh Priyadarshi's GitHub Streak" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=Anshpriyadarshi&theme=studio&style=aura" alt="Ansh Priyadarshi's Top Languages" width="100%" />
+  <img src="https://www.gitskins.com/api/section/stack?username=Anshpriyadarshi&amp;theme=dracula&amp;style=aura" alt="Ansh Priyadarshi's Top Languages" width="100%" />
 </p>
 
-## The city I built this year
+## 🌌 The City I Built This Year
 
 <p align="center">
   <a href="https://gitcity.natrajx.in/Anshpriyadarshi">
-    <img
-      src="https://gitcity.natrajx.in/api/svg?u=Anshpriyadarshi&theme=aurora"
-      alt="Ansh Priyadarshi's GitHub contributions as an Aurora 3D city"
-      width="100%"
-    />
+    <img src="https://gitcity.natrajx.in/api/svg?u=Anshpriyadarshi&amp;theme=aurora" alt="Ansh Priyadarshi's GitHub contributions as an Aurora 3D city" width="100%" />
   </a>
 </p>
 
@@ -50,6 +52,18 @@
 
 > ## Tools
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
-
 ## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-handle">
+    <img src="https://img.shields.io/badge/LinkedIn-0B1B2A?style=for-the-badge&amp;logo=linkedin&amp;logoColor=BD93F9" alt="LinkedIn" />
+  </a>
+  <a href="mailto:you@example.com">
+    <img src="https://img.shields.io/badge/Email-0B1B2A?style=for-the-badge&amp;logo=gmail&amp;logoColor=BD93F9" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>Keep learning. Keep building. Keep moving forward. 🚀</em>
+</p>
