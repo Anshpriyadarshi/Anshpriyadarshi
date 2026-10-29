@@ -1,29 +1,35 @@
 <!--
   ANSH PRIYADARSHI · GITHUB PROFILE
-  Theme: ORBITAL SIGNAL — a learning journey in motion
+  Theme: DEEP SPACE — a learning journey among the stars
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=ANSH%20PRIYADARSHI&fontSize=48&fontColor=F4F7FF&fontAlignY=38&desc=IN%20ORBIT%20%E2%80%A2%20LEARNING%20%E2%80%A2%20BUILDING%20%E2%80%A2%20EVOLVING&descAlignY=60&descSize=14&animation=twinkling&color=0:07111F,35:102A43,70:4F46A5,100:14B8A6" width="100%" alt="Animated orbital gradient header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=ANSH%20PRIYADARSHI&fontSize=48&fontColor=F4F7FF&fontAlignY=38&desc=EXPLORING%20%E2%80%A2%20LEARNING%20%E2%80%A2%20BUILDING%20%E2%80%A2%20EVOLVING&descAlignY=60&descSize=14&animation=twinkling&color=0:050816,35:111B42,70:312E81,100:0E7490" width="100%" alt="Animated deep-space header" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=850&color=72E4D4&center=true&vCenter=true&width=760&lines=Curiosity+is+my+navigation+system;Learning+by+building%2C+debugging%2C+repeating;Small+projects.+Stronger+foundations.;Still+in+orbit.+Still+moving+forward." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=850&color=A5B4FC&center=true&vCenter=true&width=760&lines=Curiosity+is+my+navigation+system;Learning+by+building%2C+debugging%2C+repeating;Small+projects.+Stronger+foundations.;Still+in+orbit.+Still+moving+forward." alt="Animated introduction" />
+
+<br>
+
+<img src="./space-scene.svg" width="720" alt="A ringed violet planet with a satellite orbiting through a star field" />
 
 <br><br>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-Anshpriyadarshi-0B1525?style=for-the-badge&logo=github&logoColor=72E4D4)](https://github.com/Anshpriyadarshi)
+[![GitHub](https://img.shields.io/badge/GITHUB-Anshpriyadarshi-080D24?style=for-the-badge&logo=github&logoColor=C4B5FD)](https://github.com/Anshpriyadarshi)
 &nbsp;
-[![Repositories](https://img.shields.io/badge/EXPLORE-REPOSITORIES-0B1525?style=for-the-badge&logo=github&logoColor=A99BFF)](https://github.com/Anshpriyadarshi?tab=repositories)
+[![Repositories](https://img.shields.io/badge/EXPLORE-REPOSITORIES-080D24?style=for-the-badge&logo=github&logoColor=67E8F9)](https://github.com/Anshpriyadarshi?tab=repositories)
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Anshpriyadarshi&style=flat-square&color=14B8A6&label=VISITORS" alt="Profile visit counter" />
+<img src="https://komarev.com/ghpvc/?username=Anshpriyadarshi&style=flat-square&color=6366F1&label=VISITORS" alt="Profile visit counter" />
 
 </div>
 
 ---
+
+<div align="center"><sub>✦ &nbsp; TRANSMISSION RECEIVED FROM SECTOR 01 &nbsp; ✦</sub></div>
 
 ## ✦ TRANSMISSION LOG
 
@@ -130,22 +136,22 @@ My GitHub is where the learning becomes visible. Activity cards are snapshots, n
 <div align="center">
 
 <a href="https://github.com/Anshpriyadarshi">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Anshpriyadarshi&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&bg_color=07111F&title_color=72E4D4&text_color=E6EEF8&icon_color=A99BFF" alt="GitHub stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Anshpriyadarshi&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&bg_color=080D24&title_color=A5B4FC&text_color=E6EAF7&icon_color=67E8F9" alt="GitHub stats" />
 </a>
 <a href="https://github.com/Anshpriyadarshi">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshpriyadarshi&layout=compact&hide_border=true&langs_count=6&bg_color=07111F&title_color=72E4D4&text_color=E6EEF8" alt="Most used languages" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/Anshpriyadarshi">
-  <img src="https://streak-stats.demolab.com/?user=Anshpriyadarshi&hide_border=true&background=07111F&ring=A99BFF&fire=72E4D4&currStreakLabel=72E4D4&sideLabels=E6EEF8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AA9BC" alt="GitHub contribution streak" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshpriyadarshi&layout=compact&hide_border=true&langs_count=6&bg_color=080D24&title_color=A5B4FC&text_color=E6EAF7" alt="Most used languages" />
 </a>
 
 <br><br>
 
 <a href="https://github.com/Anshpriyadarshi">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshpriyadarshi&bg_color=07111F&color=72E4D4&line=A99BFF&point=FFFFFF&area=true&hide_border=true" width="96%" alt="GitHub activity graph" />
+  <img src="https://streak-stats.demolab.com/?user=Anshpriyadarshi&hide_border=true&background=080D24&ring=A5B4FC&fire=67E8F9&currStreakLabel=A5B4FC&sideLabels=E6EAF7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9AA9BC" alt="GitHub contribution streak" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/Anshpriyadarshi">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshpriyadarshi&bg_color=080D24&color=A5B4FC&line=67E8F9&point=FFFFFF&area=true&hide_border=true" width="96%" alt="GitHub activity graph" />
 </a>
 
 </div>
@@ -185,16 +191,16 @@ patience        → let the foundation grow
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0B1525?style=for-the-badge&logo=github&logoColor=72E4D4)](https://github.com/Anshpriyadarshi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1525?style=for-the-badge&logo=linkedin&logoColor=A99BFF)](https://www.linkedin.com/in/ansh-priyadarshi-868b43427/)
+[![GitHub](https://img.shields.io/badge/GitHub-080D24?style=for-the-badge&logo=github&logoColor=C4B5FD)](https://github.com/Anshpriyadarshi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-080D24?style=for-the-badge&logo=linkedin&logoColor=67E8F9)](https://www.linkedin.com/in/ansh-priyadarshi-868b43427/)
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=800&color=72E4D4&center=true&vCenter=true&width=680&lines=%3E+curiosity.exe+%E2%80%94+RUNNING;%3E+future+%3D+under_construction;%3E+Keep+learning.+Keep+building.;%3E+Signal+still+evolving..." alt="Animated closing signal" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=800&color=A5B4FC&center=true&vCenter=true&width=680&lines=%3E+curiosity.exe+%E2%80%94+RUNNING;%3E+future+%3D+under_construction;%3E+Keep+learning.+Keep+building.;%3E+Signal+still+evolving..." alt="Animated closing signal" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:14B8A6,35:4F46A5,70:102A43,100:07111F&animation=twinkling" width="100%" alt="Animated orbital gradient footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0E7490,35:312E81,70:111B42,100:050816&animation=twinkling" width="100%" alt="Animated deep-space footer" />
 
 ### `THE CODE ISN'T FINISHED — I'M STILL WRITING IT.`
 
