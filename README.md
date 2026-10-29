@@ -22,7 +22,13 @@
 ## The city I built this year
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=Anshpriyadarshi&theme=studio&style=city" alt="Ansh Priyadarshi's GitHub contribution city" width="100%" />
+  <a href="https://gitcity.natrajx.in/Anshpriyadarshi">
+    <img
+      src="https://gitcity.natrajx.in/api/svg?u=Anshpriyadarshi&theme=aurora"
+      alt="Ansh Priyadarshi's GitHub contributions as an Aurora 3D city"
+      width="100%"
+    />
+  </a>
 </p>
 
 ## 🛠️ Languages & Tools
