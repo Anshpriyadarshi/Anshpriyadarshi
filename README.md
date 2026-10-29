@@ -7,15 +7,25 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=Anshpriyadarshi&theme=studio&style=aura" alt="Ansh Priyadarshi's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=Anshpriyadarshi&theme=nightowl&hide_border=true" alt="Ansh Priyadarshi's GitHub Streak" width="49%" />
+  <img src="https://www.gitskins.com/api/section/stats?username=Anshpriyadarshi&theme=studio&style=aura" alt="Ansh Priyadarshi's GitHub Stats" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=Anshpriyadarshi&theme=studio&style=aura" alt="Ansh Priyadarshi's Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=Anshpriyadarshi&theme=nightowl&hide_border=true" alt="Ansh Priyadarshi's GitHub Streak" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=Anshpriyadarshi&theme=studio&style=aura" alt="Ansh Priyadarshi's Top Languages" width="100%" />
+</p>
+
+## The city I built this year
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=Anshpriyadarshi&theme=studio&style=city" alt="Ansh Priyadarshi's GitHub contribution city" width="100%" />
+</p>
 ## The city I built this year
 
 <p align="center">
