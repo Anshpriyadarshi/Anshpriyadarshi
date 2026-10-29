@@ -5,22 +5,19 @@
 ## 📌 About Me
 - 💡 <em>✏️ I’m Ansh Priyadarshi, a student and aspiring developer learning Python and web development while building projects and turning ideas into code.</em>
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshpriyadarshi&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="Ansh Priyadarshi's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=Anshpriyadarshi&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Ansh Priyadarshi's GitHub Streak" width="49%" />
+  <img src="https://www.gitskins.com/api/section/stats?username=Anshpriyadarshi&theme=studio&style=aura" alt="Ansh Priyadarshi's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Anshpriyadarshi&theme=nightowl&hide_border=true" alt="Ansh Priyadarshi's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshpriyadarshi&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Ansh Priyadarshi's Top Languages" />
+  <img src="https://www.gitskins.com/api/section/stack?username=Anshpriyadarshi&theme=studio&style=aura" alt="Ansh Priyadarshi's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anshpriyadarshi&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ansh Priyadarshi's GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Anshpriyadarshi&theme=nightowl&radius=10" alt="Ansh Priyadarshi's Activity Graph" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=Anshpriyadarshi&theme=studio&style=city" alt="Ansh Priyadarshi's Contribution Activity" />
 </p>
 
 ## 🛠️ Languages & Tools
