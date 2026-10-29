@@ -7,18 +7,20 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshpriyadarshi&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="anshpriyadarshi's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=anshpriyadarshi&theme=nightowl&hide_border=true&cache_seconds=86400" alt="anshpriyadarshi's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshpriyadarshi&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="Ansh Priyadarshi's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Anshpriyadarshi&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Ansh Priyadarshi's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshpriyadarshi&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshpriyadarshi&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Ansh Priyadarshi's Top Languages" />
 </p>
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anshpriyadarshi&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ansh priyadarshi's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Anshpriyadarshi&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Ansh Priyadarshi's GitHub Trophies" />
 </p>
+
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=anshpriyadarshi&theme=nightowl&radius=10" alt="anshpriyadarshi's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Anshpriyadarshi&theme=nightowl&radius=10" alt="Ansh Priyadarshi's Activity Graph" />
 </p>
 
 ## 🛠️ Languages & Tools
