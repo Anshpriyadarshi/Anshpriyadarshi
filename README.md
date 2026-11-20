@@ -17,10 +17,6 @@
   <img src="https://streak-stats.demolab.com/?user=Anshpriyadarshi&amp;background=0B1B2A&amp;ring=BD93F9&amp;fire=FF79C6&amp;currStreakLabel=BD93F9&amp;sideLabels=C4B5FD&amp;currStreakNum=F3E8FF&amp;sideNums=F3E8FF&amp;dates=C4B5FD&amp;hide_border=true" alt="Ansh Priyadarshi's GitHub Streak" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=Anshpriyadarshi&amp;theme=dracula&amp;style=aura" alt="Ansh Priyadarshi's Top Languages" width="100%" />
-</p>
-
 ## 🌌 The City I Built This Year
 
 <p align="center">
